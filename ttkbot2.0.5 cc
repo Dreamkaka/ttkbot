@@ -1,0 +1,72 @@
+##ttk 2.0.5 主要为cc功能
+
+每日一言
+$访问 https://xiaobai.klizi.cn/API/other/yiwen.php$
+
+锤自己
+±img https://xiaobai.klizi.cn/API/gif/pound.php?qq=%QQ%±
+
+cc2
+±img https://xiaobai.klizi.cn/API/getImage-master/out_image.php?±
+
+原神随机图
+$访问 https://xiaobai.klizi.cn/API/img/miyou.php$
+
+
+[戳一戳]
+次:$读 戳一戳/次数 %时间dd% 0$
+随:$随机数 1 6$
+如果:%次%<5&%Code%==%Robot%
+不要戳ttk啊啊啊啊啊!
+$写 戳一戳/次数 %时间dd% [%次%+1]$
+返回
+如果尾
+如果:%随%==1&%Code%==%Robot%
+再戳我就咬你啦
+$写 戳一戳/次数 %时间dd% 0$
+返回
+如果尾
+如果:%随%==2&%Code%==%Robot%
+不要再戳ttk了QAQ
+$写 戳一戳/次数 %时间dd% 0$
+返回
+如果尾
+如果:%随%==3&%Code%==%Robot%
+请……请你不要再戳了(>_<)
+$写 戳一戳/次数 %时间dd% 0$
+返回
+如果尾
+如果:%随%==4&%Code%==%Robot%
+啊啊啊，不要戳了
+$写 戳一戳/次数 %时间dd% 0$
+返回
+如果尾
+如果:%随%==5&%Code%==%Robot%
+不要戳啦
+$写 戳一戳/次数 %时间dd% 0$
+返回
+如果尾
+如果:%随%==6&%Code%==%Robot%
+嗷呜～
+$写 戳一戳/次数 %时间dd% 0$
+返回
+如果尾
+
+tk救我
+不救
+
+cc3
+$访问 https://xiaobai.klizi.cn/API/other/holiday.php$
+
+cc4
+$访问 https://xiaobai.klizi.cn/API/other/ls.php$
+
+cc5
+点击链接以查看卫星图
+$访问 https://xiaobai.klizi.cn/API/other/tianqi_a.php$
+
+cc6
+$访问 https://xiaobai.klizi.cn/API/other/tianqi_d.php$
+
+cc7
+±img https://xiaobai.klizi.cn/API/other/60s.php±
